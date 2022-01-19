@@ -1,6 +1,6 @@
 ### OI, EU SOU PETERSON DUARTE
 
-💻 - Hoje eu trabalho com Front-End.
+💻 - Estudando - Front-End.
 
 
 📘 - Estou estudando atualmente Analise de desenvolvimento de sistema.
